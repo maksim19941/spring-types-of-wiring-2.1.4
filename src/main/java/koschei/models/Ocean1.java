@@ -13,4 +13,6 @@ public class Ocean1 {
     public String toString() {
         return "на океане остров " + island.toString();
     }
+
+
 }
